@@ -1,0 +1,29 @@
+# 1 "fibonacci.cpp"
+# 1 "<built-in>" 1
+# 1 "<built-in>" 3
+# 468 "<built-in>" 3
+# 1 "<command line>" 1
+# 1 "<built-in>" 2
+# 1 "fibonacci.cpp" 2
+# 1 "./fibonacci.hpp" 1
+
+
+int fibonacci_recursive(const int value);
+int fibonacci_iterative(const int value);
+# 2 "fibonacci.cpp" 2
+
+int fibonacci_recursive(const int value) {
+    if (value <= 1) return value;
+    return fibonacci_recursive(value - 1) + fibonacci_recursive(value - 2);
+}
+
+int fibonacci_iterative(const int value) {
+    if (value <= 1) return value;
+    int first = 0, second = 1, current = 0;
+    for (int i = 2; i <= value; i++) {
+        current = first + second;
+        first = second;
+        second = current;
+    }
+    return current;
+}
