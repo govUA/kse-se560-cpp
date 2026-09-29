@@ -1,0 +1,10 @@
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw3/build/debug/CMakeFiles/edit_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw3/build/debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw3/build/debug/libraries/CMakeFiles/edit_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw3/build/debug/libraries/CMakeFiles/rebuild_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw3/build/debug/libraries/fibonacci/CMakeFiles/fibonacci_lib.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw3/build/debug/libraries/fibonacci/CMakeFiles/edit_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw3/build/debug/libraries/fibonacci/CMakeFiles/rebuild_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw3/build/debug/application/CMakeFiles/fibonacci_app.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw3/build/debug/application/CMakeFiles/edit_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw3/build/debug/application/CMakeFiles/rebuild_cache.dir

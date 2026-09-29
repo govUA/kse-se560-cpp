@@ -1,0 +1,9 @@
+# ninja log v5
+12	160	1790685320601495800	build.ninja	57f7c6cc2582654a
+17	86	1790684587525416200	libraries/fibonacci/CMakeFiles/fibonacci_lib.dir/src/fibonacci.cpp.o	d55e954152b5c384
+105	209	1790684587662083200	libraries/fibonacci/libfibonacci_lib.a	de8b4025dceeb695
+27	976	1790684718154795200	application/CMakeFiles/fibonacci_app.dir/src/main.cpp.o	6e77587f9f18b105
+1048	1657	1790684718850212600	application/fibonacci_app	b00fab0cb696797c
+11	195	1790685320601495800	build.ninja	57f7c6cc2582654a
+9	792	1790685321444689200	application/CMakeFiles/fibonacci_app.dir/src/main.cpp.o	6e77587f9f18b105
+795	1351	1790685322051405100	application/fibonacci_app	b00fab0cb696797c
