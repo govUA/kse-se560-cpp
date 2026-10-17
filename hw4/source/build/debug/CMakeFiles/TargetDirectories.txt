@@ -1,0 +1,11 @@
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/CMakeFiles/edit_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/libraries/CMakeFiles/edit_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/libraries/CMakeFiles/rebuild_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/libraries/elevator/CMakeFiles/elevator_lib.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/libraries/elevator/CMakeFiles/edit_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/libraries/elevator/CMakeFiles/rebuild_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/application/CMakeFiles/elevator_app.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/application/CMakeFiles/probe_app.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/application/CMakeFiles/edit_cache.dir
+/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/application/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/d/Users/\u0406\u0433\u043e\u0440/CLionProjects/cpp/hw4/source/build/debug/cmake_install.cmake",
+		"/mnt/d/Users/\u0406\u0433\u043e\u0440/CLionProjects/cpp/hw4/source/build/debug/libraries/cmake_install.cmake",
+		"/mnt/d/Users/\u0406\u0433\u043e\u0440/CLionProjects/cpp/hw4/source/build/debug/libraries/elevator/cmake_install.cmake",
+		"/mnt/d/Users/\u0406\u0433\u043e\u0440/CLionProjects/cpp/hw4/source/build/debug/application/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

@@ -1,0 +1,12 @@
+# ninja log v5
+1306	2032	1792240246098821000	application/elevator_app	a23f2ae9077a31a2
+8	1301	1792240245358984900	application/CMakeFiles/elevator_app.dir/src/main.cpp.o	bfefbcf7e7b1efee
+106	148	1792239748527896700	libraries/elevator/libelevator_lib.a	2fbd1ef4d03267c3
+6	90	1792239748457968300	libraries/elevator/CMakeFiles/elevator_lib.dir/src/elevator.cpp.o	746f30c2e6f38a99
+7	230	1792240651471558100	build.ninja	c8499fcd67cb6174
+7	230	1792240651471558100	/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/cmake_install.cmake	c8499fcd67cb6174
+7	230	1792240651471558100	/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/libraries/cmake_install.cmake	c8499fcd67cb6174
+7	230	1792240651471558100	/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/libraries/elevator/cmake_install.cmake	c8499fcd67cb6174
+7	230	1792240651471558100	/mnt/d/Users/Ігор/CLionProjects/cpp/hw4/source/build/debug/application/cmake_install.cmake	c8499fcd67cb6174
+2	1071	1792240652567519500	application/CMakeFiles/probe_app.dir/src/probe_main.cpp.o	de6abf9484d6a156
+1086	1824	1792240653346037400	application/probe_app	423ea2e3d0f11ca1
